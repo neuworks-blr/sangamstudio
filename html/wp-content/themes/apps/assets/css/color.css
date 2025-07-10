@@ -1,0 +1,103 @@
+/*************************************
+
+Template Name: Apps - Responsive APP Landing Page
+Author: Thematicwebs
+Version: 1.0
+Developed by: Thematicwebs
+
+NOTE: This is color stylesheet of the template.
+
+****************************************/
+
+a.fzf-btn,
+a#cancel-comment-reply-link,
+.custom-navbar.menu-top-fixed ul li.active a,
+.custom-navbar.menu-top-fixed.blog-page-menu ul li.blog-menu a,
+.welcome-btn a:hover,
+.single-about h5,
+.single-feature-content h5,
+.hover-content a,
+.t-name,
+.app-video a:hover i,
+.single-pricing h4,
+.single-pricing h1,
+.single-pricing h1 small,
+.single-pricing a.btn-pricing-bg,
+.social-link a:hover,
+.post-title a:hover,
+.social-links li a:hover,
+.widget.category li:before,
+.widget.recent-post li:before,
+.widget.category li a:hover,
+.widget.recent-post li a:hover,
+.read-more-btn,
+.entry-content ul li i,
+.comment-reply-link,
+.single-address.contact-old i.fa,
+.apps_widgets li:before,
+.post-meta a:hover,
+.single-tagcat a:hover {
+	color: #DCBD24;
+}
+
+.a.fzf-btn:hover,
+.breadcroumb-area:before,
+.owl-dots div.active,
+.video-area::before,
+.single-pricing.active .pricing-heading,
+.single-pricing a.btn-pricing-bg:hover,
+.breadcroumb-area:before,
+.single-pricing.active a.btn-pricing-bg,
+.single-pricing a.btn-pricing-bg:hover,
+.download-area-btn a.theme-color-btn,
+.download-area-btn a:hover,
+.download-area .submit-bt,
+.stat-area:before,
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn,
+.submit-bt,
+.new_contxt,
+.accordion-container .accordion-titulo span.toggle-icon,
+.submit-bt:hover, .btn-primary:hover {
+	background: #DCBD24;
+}
+.post-date,
+.search-form button[type="submit"],
+.widget-title,
+.widget.tags a:hover,
+.pagination ul li.active a,
+.pagination li a:hover,
+.share-options ul,
+.btn-comment,
+.apps_widgets .tagcloud a:hover,
+.pagination li span,
+.color-background-overlay,
+a.fzf-btn:hover {
+	background-color: #fff;
+}
+.single-content a,
+.testimonial-area .owl-dots div {
+	background: #DCBD24 none repeat scroll 0 0;
+}
+
+.apps_widgets .tagcloud a:hover {
+	border-color:#DCBD24;
+}
+.social-links li a:hover,
+.comment-reply-link {
+	border: 1px solid #DCBD24;
+}
+.testimonial-area .owl-dots div.active,
+.single-pricing a.btn-pricing-bg,
+.single-pricing a.btn-pricing-bg:hover,
+.single-pricing a.btn-pricing-bg:hover,
+a.fzf-btn {
+	border: 2px solid #DCBD24;
+}
+.blog-bottom {
+	border-bottom: 2px solid #DCBD24;
+}
+blockquote {
+    border-left: 5px solid #DCBD24;
+}

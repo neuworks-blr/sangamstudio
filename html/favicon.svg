@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="422" viewBox="0 0 390 422">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_1_copy" data-name="Ellipse 1 copy" cx="189.875" cy="114.109" rx="28.875" ry="30.109"/>
+  <ellipse id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" cx="189.875" cy="305.11" rx="28.875" ry="30.109"/>
+  <ellipse id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" cx="272.875" cy="257.11" rx="28.875" ry="30.109"/>
+  <ellipse id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" cx="272.875" cy="164.109" rx="28.875" ry="30.109"/>
+  <ellipse id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" cx="107.875" cy="164.109" rx="28.875" ry="30.109"/>
+  <ellipse id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" cx="107.875" cy="257.11" rx="28.875" ry="30.109"/>
+  <circle cx="273" cy="76" r="22"/>
+  <circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" cx="338" cy="210" r="22"/>
+  <circle id="Ellipse_2_copy_7" data-name="Ellipse 2 copy 7" cx="40" cy="210" r="22"/>
+  <circle id="Ellipse_2_copy_4" data-name="Ellipse 2 copy 4" cx="190" cy="210" r="22"/>
+  <circle id="Ellipse_2_copy_6" data-name="Ellipse 2 copy 6" cx="273" cy="345" r="22"/>
+  <path id="Ellipse_2_copy_5" data-name="Ellipse 2 copy 5" class="cls-1" d="M180,182a22,22,0,1,1-22,22A22,22,0,0,1,180,182Zm10-10a38,38,0,1,1-38,38A38,38,0,0,1,190,172Z"/>
+  <circle id="Ellipse_2_copy_2" data-name="Ellipse 2 copy 2" cx="108" cy="345" r="22"/>
+  <circle id="Ellipse_2_copy_3" data-name="Ellipse 2 copy 3" cx="108" cy="76" r="22"/>
+  <circle cx="190.5" cy="301.5" r="15.5"/>
+  <circle id="Ellipse_3_copy" data-name="Ellipse 3 copy" cx="190.5" cy="114.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_2" data-name="Ellipse 3 copy 2" cx="190.5" cy="33.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_6" data-name="Ellipse 3 copy 6" cx="339.5" cy="117.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_7" data-name="Ellipse 3 copy 7" cx="339.5" cy="305.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_8" data-name="Ellipse 3 copy 8" cx="40.5" cy="117.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_9" data-name="Ellipse 3 copy 9" cx="40.5" cy="305.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_3" data-name="Ellipse 3 copy 3" cx="190.5" cy="117.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_4" data-name="Ellipse 3 copy 4" cx="190.5" cy="301.5" r="15.5"/>
+  <circle id="Ellipse_3_copy_5" data-name="Ellipse 3 copy 5" cx="190.5" cy="385.5" r="15.5"/>
+  <rect class="cls-2" x="411" y="-271.875" width="94.938" height="164.875"/>
+</svg>
